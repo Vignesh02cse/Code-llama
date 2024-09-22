@@ -77,7 +77,7 @@ Follow these steps to set up the project:
    After installing the dependencies, you can run the Streamlit application with the following command:
 
    ```bash
-   streamlit run main.py
+   streamlit run Main.py
    ```
 
 6. **Access the application:**
