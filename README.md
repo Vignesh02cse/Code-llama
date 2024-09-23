@@ -38,7 +38,7 @@ Follow these steps to set up the project:
 
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   source ./.venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 
 3. **Install the required packages:**
